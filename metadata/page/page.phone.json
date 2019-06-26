@@ -1,0 +1,17 @@
+{
+  "_id": "page.phone",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.phone--number.auto_name__5",
+      "_type": "number",
+      "label": "What's your phone number?",
+      "name": "auto_name__5"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__3",
+    "operator": "defined"
+  },
+  "url": "phone"
+}

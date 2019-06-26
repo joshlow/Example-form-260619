@@ -1,0 +1,32 @@
+{
+  "_id": "page.contact",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.contact--checkboxes",
+      "_type": "checkboxes",
+      "items": [
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.contact--checkboxes--checkbox.auto_name__3",
+          "_type": "checkbox",
+          "label": "Phone",
+          "name": "auto_name__3"
+        },
+        {
+          "$component": true,
+          "$definition": true,
+          "$option": true,
+          "_id": "page.contact--checkboxes--checkbox.auto_name__4",
+          "_type": "checkbox",
+          "label": "Email",
+          "name": "auto_name__4"
+        }
+      ],
+      "legend": "How do you want us to contact you?"
+    }
+  ],
+  "url": "contact"
+}

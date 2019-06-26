@@ -1,0 +1,13 @@
+{
+  "_id": "page.address",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.address--textarea.auto_name__2",
+      "_type": "textarea",
+      "label": "Your address",
+      "name": "auto_name__2"
+    }
+  ],
+  "url": "address"
+}

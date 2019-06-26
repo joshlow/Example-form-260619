@@ -1,0 +1,21 @@
+{
+  "_id": "page.email",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "$component": true,
+      "$control": true,
+      "$definition": true,
+      "$field": true,
+      "_id": "page.email--email.auto_name__7",
+      "_type": "email",
+      "label": "What's your email address?",
+      "name": "auto_name__7"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__4",
+    "operator": "defined"
+  },
+  "url": "email"
+}

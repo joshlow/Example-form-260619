@@ -1,0 +1,11 @@
+{
+  "_id": "page.under-18--2",
+  "_type": "page.form",
+  "heading": "Yes, over 18",
+  "show": {
+    "identifier": "auto_name__1",
+    "operator": "is",
+    "value": "auto_value__1"
+  },
+  "url": "over-18"
+}
